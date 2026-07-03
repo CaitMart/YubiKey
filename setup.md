@@ -12,6 +12,6 @@ When logging on to Microsoft it gave me the option to create a passkey. With my 
 during login. You can manage verification options in your security settings in your Microsoft account to add or remove. 
 <img width="1213" height="248" alt="Screenshot 2026-07-02 at 5 45 56 PM" src="https://github.com/user-attachments/assets/b8c2604f-de74-4475-b161-c24f6355af76" />
 
-## MacOS 
+## MacOS  
 You can add your YubiKey on your MacOS by going into system settings > click account name > sign-in and security > two-factor authentication > security keys > set up 
 Note you must have two keys present to use it on macOS because a backup key is needed incase you lose your main one. 
