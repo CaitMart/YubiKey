@@ -15,3 +15,4 @@ during login. You can manage verification options in your security settings in y
 ## MacOS  
 You can add your YubiKey on your MacOS by going into system settings > click account name > sign-in and security > two-factor authentication > security keys > set up 
 Note you must have two keys present to use it on macOS because a backup key is needed incase you lose your main one. 
+<img width="685" height="709" alt="Screenshot 2026-07-02 at 5 56 13 PM" src="https://github.com/user-attachments/assets/c96b0a84-3f53-4389-bf9a-70c31cf9999e" />
